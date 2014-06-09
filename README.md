@@ -1,1 +1,1 @@
-Nothing fancy here -- just a Jekyll site explaining the DivvyBrags Chrome extension.
+A Jekyll site for New Yorkers who love CitiBikes.
