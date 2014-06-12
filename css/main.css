@@ -32,6 +32,10 @@ a { color: white; }
 #header { top: 0px; width: 100%; left: 0px; padding-top: 20px; height: 42px; }
 #footer { bottom: 0px; right: 0px; padding: 20px; width: 15%; }
 
+@media only screen and (max-width: 400px) {
+  #footer { display: none; } /* Too messy for smartphones! */
+}
+
 #divvybrags-label { float; left; bottom: 40px; position: relative; font-size: 50px; }
 #divvybrags-label h1 { font-size: 50px; }
 
